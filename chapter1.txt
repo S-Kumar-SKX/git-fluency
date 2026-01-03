@@ -1,2 +1,1 @@
-Git allows me to travel through Time.
-But this is parallel universe!
+Now it contains only this
