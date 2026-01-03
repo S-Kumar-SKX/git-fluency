@@ -1,2 +1,2 @@
-Hello Git
-Git allows me to travel through time.
+Git allows me to travel through Time.
+But this is parallel universe!
