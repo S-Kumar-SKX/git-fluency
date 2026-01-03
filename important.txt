@@ -1,0 +1,1 @@
+This file will not be deleted just because it is not in the other branch and I merged them because merging is not copying the file and forgetting the previous one
