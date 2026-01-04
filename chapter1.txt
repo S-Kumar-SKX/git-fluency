@@ -1,2 +1,2 @@
-Git is difficult but powerful
+This is git
 This is the second line.
