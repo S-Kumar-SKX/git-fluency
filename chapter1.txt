@@ -1,1 +1,2 @@
-Now it contains only this
+Git is the best tool for version control.
+This is the second line.
