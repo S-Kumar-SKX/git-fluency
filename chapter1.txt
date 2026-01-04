@@ -1,2 +1,2 @@
-Git is the best tool for version control.
+Git is difficult but powerful
 This is the second line.
